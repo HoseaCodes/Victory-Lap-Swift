@@ -9,6 +9,10 @@ This is a short template that uses the Mailchimp API to create a subscriber news
 
 This application was developed with swift and styling with Storyboard.
 
+## AppIcon
+
+![icon](https://i.imgur.com/EA8NaCA.png)
+
 ## Future Enhancements
 
 - Complete Homepage
